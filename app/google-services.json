@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142842712925",
+    "project_id": "jabarexplore-9bd42",
+    "storage_bucket": "jabarexplore-9bd42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142842712925:android:2f525062995f0a0e594eb4",
+        "android_client_info": {
+          "package_name": "com.unikom.jabarexplore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142842712925-5l8it4009hnr4klov8omornal9br5s4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unikom.jabarexplore",
+            "certificate_hash": "354486ff789bfeecd16bf95372a14495788f3a43"
+          }
+        },
+        {
+          "client_id": "142842712925-hemtld94vjaiagu5tsqagvc4cntdhtac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPwgGFndRiI1x0ZlpJl2eSPEqmweJ1NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142842712925-hemtld94vjaiagu5tsqagvc4cntdhtac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
